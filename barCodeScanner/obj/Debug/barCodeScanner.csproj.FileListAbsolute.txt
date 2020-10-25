@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2015\Projects\barCodeScanner\barCodeScanner\bin\Debug\barCodeScanner.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\barCodeScanner\barCodeScanner\bin\Debug\barCodeScanner.exe
+c:\users\administrator\documents\visual studio 2015\Projects\barCodeScanner\barCodeScanner\bin\Debug\barCodeScanner.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\barCodeScanner\barCodeScanner\obj\Debug\barCodeScanner.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\barCodeScanner\barCodeScanner\obj\Debug\barCodeScanner.cw_Form.resources
+c:\users\administrator\documents\visual studio 2015\Projects\barCodeScanner\barCodeScanner\obj\Debug\barCodeScanner.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\barCodeScanner\barCodeScanner\obj\Debug\barCodeScanner.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\barCodeScanner\barCodeScanner\obj\Debug\barCodeScanner.exe
+c:\users\administrator\documents\visual studio 2015\Projects\barCodeScanner\barCodeScanner\obj\Debug\barCodeScanner.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\barCodeScanner\barCodeScanner\bin\Debug\PQScan.BarcodeScanner.dll
