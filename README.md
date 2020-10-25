@@ -1,0 +1,2 @@
+# barCodeScanner
+离线图片扫码工具，支持QR CODE | DATA MATRIX | PDF417 | AZTEC CODE | CODE 128 | CODE 39 | CODE 93 | CODABAR | EAN 13 | EAN 8 | UPCA | UPCE | ITF14等，支持图片格式JPEG | JPG | PNG | GIF | TIFF | TIF | BMP等
